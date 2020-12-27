@@ -1,6 +1,6 @@
 # near_me
 
-A new Flutter application.
+A new Flutter application that shows near by Restaurants,Hotels,Gas Stations,etc and also displays the route.
 
 ## Getting Started
 
